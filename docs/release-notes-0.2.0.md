@@ -12,16 +12,12 @@
 - 工作统计根据任务标题、项目、备注和标签生成关键词点云。
 - 前端视觉风格调整为更克制的中性界面，并使用绿色、蓝色、金色、红色等功能色做区分。
 
-## 产物
+## 下载
 
-Release exe：
-```text
-D:\program\shiguang-list\src-tauri\target\release\it-knows-you-better.exe
-```
+请在本版本 GitHub Release 附件中下载：
 
-便携试用包：
 ```text
-D:\program\shiguang-list\release\it-knows-you-better-portable-0.2.0.zip
+it-knows-you-better-portable-0.2.0.zip
 ```
 
 ## 验证结果
