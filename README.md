@@ -4,14 +4,14 @@ it knows you better 试用版下载页。
 
 ## 当前版本
 
-- 版本：1.2.4
+- 版本：1.3.0
 - 发布日期：2026-06-03
-- 下载：请在 GitHub Releases 中获取 `it-knows-you-better-portable-1.2.4.zip`
-- 下载页：https://github.com/YSKM-noah/list/releases/tag/v1.2.4
+- 下载：请在 GitHub Releases 中获取 `it-knows-you-better-portable-1.3.0.zip`
+- 下载页：https://github.com/YSKM-noah/list/releases/tag/v1.3.0
 
 ## 下载说明
 
-请下载 Release Assets 中的 `it-knows-you-better-portable-1.2.4.zip`。
+请下载 Release Assets 中的 `it-knows-you-better-portable-1.3.0.zip`。
 
 GitHub Release 页面自动显示的 `Source code (zip)` 和 `Source code (tar.gz)` 是 GitHub 根据本公开下载页仓库自动生成的快照，只包含 README、版本号和版本说明，不是软件源码。
 
@@ -30,4 +30,5 @@ GitHub Release 页面自动显示的 `Source code (zip)` 和 `Source code (tar.g
 - 知识库支持导入 PDF、DOCX、TXT、Markdown 文档，并关联已有 TODO 任务。
 - 知识库支持来源筛选、排序、Markdown 渲染预览、复制 Markdown 和从任务详情反向打开关联知识。
 - 知识库支持未保存提示、保存状态、知识摘要和从任务详情一键创建关联知识草稿。
+- 知识库支持 Agent 总结和知识转任务，可以从知识条目生成 Markdown 总结，并提取任务草稿写入 TODO。
 - 优化整体前端视觉风格，包括面板层级、按钮状态、任务卡片、日历和知识库列表。
